@@ -1,2 +1,5 @@
-# bt
-Work related stuff
+- 👋 Hi, I’m @konzmo on "BT" which means Badisches Tagblatt GmbH
+- 👀 I’m interested in developing useful stuff for the company
+- 🌱 I’m currently in IT-Administration as a team leader
+- 💞️ I’m looking to collaborate on Containerization and Linux
+- 📫 How to reach me: konrad.moritz@badisches-tagblatt.de
